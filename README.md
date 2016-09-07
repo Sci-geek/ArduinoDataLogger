@@ -1,6 +1,10 @@
 # ArduinoDataLogger
-Data logger using the Adafruit 10-DOF IMU Breakout and SD card shild.
+Data logging shild using the Adafruit 10-DOF IMU Breakout and arduino SD card shild.
+The example code is made for arduino uno but can be modified to used on almost any arduino.
+*The Program is large with all the Librays so it will somtimes have a warning about not enugh memeory. It still has enugh to function proporly.*
+
 Adafruit 10-DOF- https://www.adafruit.com/products/1604
+
 Adafruit Data Logging shield for Arduino- https://www.adafruit.com/products/1141
 
 #Librarys to download
